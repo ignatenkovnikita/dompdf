@@ -47,6 +47,7 @@ summary {
 }
 
 body {
+  font-family: DejaVu Sans!important;
   page-break-before: avoid;
   display: block;
   counter-increment: page;
